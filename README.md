@@ -3,10 +3,6 @@
 <img src="https://insidesherpa-assets.s3-ap-southeast-2.amazonaws.com/icons/jpmorgan/github+repo+images/jpm+gitub+.png"></a>
 </p>
 
-<h1> Introduction</h1> 
-<b> Experience Technology at JP Morgan Chase </b>
-<p>Try out what real work is like in the technology team at JP Morgan Chase & Co. Fast track to the tech team with your work.</p>
-
 <h2 id="task">Task Overview </h2>
 Display data visually for traders.
 Use Perspective to create the chart for the trader’s dashboard.
